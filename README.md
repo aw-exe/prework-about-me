@@ -1,4 +1,14 @@
-## About Me 
+# Project Title
 
-* This website is a static HTML website using semantic tags and minimal CSS. 
-* It is currently hosted on Github Pages.
+This was my part of my pre-work assignment prior to my coding boot camp starting, it is a basic bio of myself using HTML and CSS.
+
+## Deployment
+
+Click on the link below to open in your browser.
+
+https://aw-exe.github.io/prework-about-me/
+
+## Built With
+
+* HTML
+* CSS
